@@ -1,0 +1,6 @@
+framework module Pods_type {
+  umbrella header "Pods-type-umbrella.h"
+
+  export *
+  module * { export * }
+}
